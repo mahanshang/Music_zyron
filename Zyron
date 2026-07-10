@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Night Dream",
+    "artist": "Zyron",
+    "cover": "https://raw.githubusercontent.com/USERNAME/Zyron-Music/main/img/cover1.jpg",
+    "audio": "https://raw.githubusercontent.com/USERNAME/Zyron-Music/main/music/song1.mp3"
+  },
+
+  {
+    "title": "Dark Road",
+    "artist": "Shang",
+    "cover": "https://raw.githubusercontent.com/USERNAME/Zyron-Music/main/img/cover2.jpg",
+    "audio": "https://raw.githubusercontent.com/USERNAME/Zyron-Music/main/music/song2.mp3"
+  }
+]
